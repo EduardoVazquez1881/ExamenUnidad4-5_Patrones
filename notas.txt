@@ -1,0 +1,6 @@
+Patrones aplicados:
+
+Patron creacional: Singleton para la base de datos.
+Patron estructural: Decorador para las promociones de los productos.
+Patron de comportamiento: Estado para controlar el stock disponible y si se termina se bloquea el producto
+Patron de arquitectura: Capas para tener todo estructurado mediante 
